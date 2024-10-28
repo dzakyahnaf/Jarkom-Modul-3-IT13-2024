@@ -8,6 +8,8 @@
 
 ### Buat Topologi
 
+![alt text](Topologi.png)
+
 # Nomer 0 
 
 ## Fritz (DNS Server) 
